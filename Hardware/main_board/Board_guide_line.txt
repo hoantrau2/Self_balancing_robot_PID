@@ -1,0 +1,36 @@
+===========Snaar Board===============
+Layer stackup
+1. Top Layer
+2. GND Layer
+
+Topsiklscreen
+1.Topsolder mask
+2.Top layer
+3.Bottom layer
+4.Bottom soldermask
+5.Bottom siklscreen
+
+Note
+1.Board dimension 97x40 mm
+2.2 layer
+3.1.6 mm thickness
+4.Silkscreen using White
+5.Soldermask Black
+===========Motor driver Board===============
+Layer stackup
+1. Top Layer
+2. GND Layer
+
+Topsiklscreen
+1.Topsolder mask
+2.Top layer
+3.Bottom layer
+4.Bottom soldermask
+5.Bottom siklscreen
+
+Note
+1.Board dimension 41x51 mm
+2.2 layer
+3.1.6 mm thickness
+4.Silkscreen using White
+5.Soldermask Green
